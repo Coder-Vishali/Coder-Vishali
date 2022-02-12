@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coder-Vishali
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CI/CD Pipeline setup
-- 💞️ I’m looking to collaborate on DevOps
+- 🌱 I’m currently learning Data Science and Engineering
+- 💞️ I’m looking to collaborate on Data processing and analytics
 - 📫 How to reach me via vishalisrinivasan97@gmail.com
 
 <!---
