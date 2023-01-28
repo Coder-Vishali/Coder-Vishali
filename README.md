@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coder-Vishali
-- 👀 I’m interested to play with things through coding to see if there's something easy to make it work out. Passion to automate things.
-- 🌱 Completed by B.Tech in Electronics and Communication Engineering and M.Tech in Data Science and Enginnering. I’m currently Machine learning operations.
+- 👀 I’m interested to play with things through coding to see if there's something easy to make it work out. Passionate to automate things.
+- 🌱 Completed B.Tech in Electronics and Communication Engineering and M.Tech in Data Science and Enginnering. I’m currently learning Machine Learning Operations.
 - 💞️ I’m looking to collaborate on Data processing, analytics & Computer Vision techniques.
 - 📫 How to reach me via vishalisrinivasan97@gmail.com
 
